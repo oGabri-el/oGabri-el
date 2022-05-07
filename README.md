@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oGabri-el, beginner at programming and computer engineering.
+- 👋 Hi, I’m @oGabri-el, beginner at programming and computer engineering, from Brazil.
 - 👀 I’m interested in technology overall
 - 🌱 I’m currently learning how to work with several basic knowledge with application development and how to work with github.  
   I am also starting a degree in computer engineering.
